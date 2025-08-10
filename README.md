@@ -2,7 +2,7 @@
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🥳 Current position: <!--Senior Full Stack Developer at [Akwit](https://akwit.org/)--> Full stack developer at Elevate Healthcare 
+- 🥳 Current position: Full Stack Developer at [Akwit](https://akwit.org/)
 - 👯 I’m looking to collaborate on HomeLab/Notes/Productivity Tool projects.
 - 🌱 I’m currently learning Java, Tailwind, Ansible
 - 🤔 I’m looking for help with [NASsible](https://github.com/mgulyas42/NASsible)
